@@ -1954,4 +1954,4 @@
     base: card
   - type: Occluder 
   - type: BlockWeather
-  - type: SunShadowCast
+  - type: SunShadowCast 

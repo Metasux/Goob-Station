@@ -493,4 +493,4 @@
         - to: reinforcedWall
           steps:
             - tool: Brushing
-              doAfter: 12
+              doAfter: 12 
