@@ -37,7 +37,7 @@
 - type: lobbyBackground
   id: Hydroponics
   background: /Textures/_CorvaxGoob/LobbyScreens/hydroponics.webp
-  name: Гидропоника"
+  name: "Гидропоника"
   artist: "nyan_cat._."
 
 - type: lobbyBackground
